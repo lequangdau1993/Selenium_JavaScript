@@ -1,0 +1,22 @@
+{
+    "accountLoginCorrect":{
+        "username":"performance_glitch_user",
+        "password":"secret_sauce"
+    },
+
+    "accountLoginInCorrect":{
+        "username":"standard_user@",
+        "password":"@123"
+    },
+
+    "accountLoginBlocked":{
+        "username":"locked_out_user",
+        "password":"secret_sauce"
+    },
+    
+    "infoUserCheckout":{
+        "firstName" : "Le",
+        "lastName"  : "Dau",
+        "postalCoce": "70000"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "alertUsernamePasswordIncorrect" : "Epic sadface: Username and password do not match any user in this service",
+    "alertUsernamePasswordBlocked" : "Epic sadface: Sorry, this user has been locked out.",
+    "alertUsernameEmpty" : "Epic sadface: Username is required",
+    "alertPasswordEmpty" : "Epic sadface: Password is required"
+}

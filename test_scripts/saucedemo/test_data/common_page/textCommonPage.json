@@ -1,0 +1,13 @@
+{
+    "productPage" : {
+        "headerText" : "Products"
+    },
+    "orderPage" : {
+        "headerTextOrder" : "Thank you for your order!",
+        "textOrder" : "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+    },
+    "cartPage" : {
+        "headerTextCart" : "Your Cart"
+    }
+
+}
