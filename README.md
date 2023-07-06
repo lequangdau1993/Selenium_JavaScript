@@ -47,7 +47,7 @@ $ npm install chromedriver --save-dev
 FRAMEWORK IN USE:
 
 - The directory structure of the test_scripts directory as below:
-![image](https://github.com/lequangdau1993/Selenium_JavaScript/assets/43399313/dd30d675-7f2e-44dd-baf4-543e52ec7251)
+- ![image](https://github.com/lequangdau1993/Selenium_JavaScript/assets/43399313/dd30d675-7f2e-44dd-baf4-543e52ec7251)
 
 - We have two test scripts running on two features: Login and Purchase features. The steps below will help you run them easily using the Mocha framework.
 - Configure the test.config.js file as shown in the screenshot:
