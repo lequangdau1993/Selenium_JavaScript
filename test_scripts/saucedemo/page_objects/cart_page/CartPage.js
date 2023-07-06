@@ -1,4 +1,4 @@
-let cartPageLocator = require('./Locator.js');
+let cartPageLocator = require('./locator.js');
 let checkoutPageOne = require('../checkout_step_one/checkoutPageOne.js');
 let checkList = require('chai').expect;
 class CartPage{
