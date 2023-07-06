@@ -41,8 +41,8 @@ $ npm install chromedriver --save-dev
 - Modify the test.config.js file to adapt to the Selenium service configuration
 ![image](https://github.com/lequangdau1993/Selenium_JavaScript/assets/43399313/98cd65c0-5dc9-4921-b897-e831439a7921)
 
-- The version current is using in this project
-![image](https://github.com/lequangdau1993/Selenium_JavaScript/assets/43399313/305d1320-f7ba-4c86-87ee-e599e389d718)
+- The version current is using in this project:
+- ![image](https://github.com/lequangdau1993/Selenium_JavaScript/assets/43399313/305d1320-f7ba-4c86-87ee-e599e389d718)
 
 FRAMEWORK IN USE:
 
